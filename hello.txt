@@ -1,9 +1,0 @@
-hello world 
-first words from vim
-
-hello world again 
-this is a text for vim 
-idk what i am writing but its fun
-hello world again
-ok
-
